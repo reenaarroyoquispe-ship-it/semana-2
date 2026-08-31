@@ -45,4 +45,4 @@ if promedio<=13:
 elif promedio>=10.5:
     print("Condicion aacademica: RECUPERACION");
 else:
-    print("Condicion academica: DESAPROBADO");
+    print("Condicion academica: DESAPRO
